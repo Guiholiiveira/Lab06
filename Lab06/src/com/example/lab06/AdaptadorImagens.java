@@ -1,3 +1,8 @@
+
+/***
+* @author Guilherme Oliveira
+*/
+
 package com.example.lab06;
 
 import android.content.res.TypedArray;
